@@ -31,17 +31,19 @@ This project was created as part of an assignment to demonstrate the use of Reac
    git clone https://github.com/AbdulAhadSiddiqui-0786/todo-list-app.git
 ---
 ## How to Run the Application
--cd todo-list-app
--npm install
--npm install -D tailwindcss postcss autoprefixer
--npm run dev
----
+```
+cd todo-list-app
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npm run dev
+```
+
 ---
 
-##Author
--Abdul Ahad Siddiqui
--GitHub: AbdulAhadSiddiqui-0786
----
+## Author
+
+- Abdul Ahad Siddiqui  
+- GitHub: [AbdulAhadSiddiqui-0786](https://github.com/AbdulAhadSiddiqui-0786)
 
 
 
